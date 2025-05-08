@@ -1,0 +1,24 @@
+diff --git a/sdk_core/comm/define.h b/sdk_core/comm/define.h
+index 66996bf..a406072 100644
+--- a/sdk_core/comm/define.h
++++ b/sdk_core/comm/define.h
+@@ -26,6 +26,7 @@
+ #define LIVOX_DEFINE_H_
+
+ #include <stdio.h>
++#include <cstdint>
+ #include <string>
+ #include <memory>
+ #include <functional>
+diff --git a/sdk_core/logger_handler/file_manager.h b/sdk_core/logger_handler/file_manager.h
+index 242a431..d8a564a 100644
+--- a/sdk_core/logger_handler/file_manager.h
++++ b/sdk_core/logger_handler/file_manager.h
+@@ -25,6 +25,7 @@
+ #ifndef LIVOX_FILE_MANAGER_
+ #define LIVOX_FILE_MANAGER_
+
++#include <cstdint>
+ #include <string>
+ #include <vector>
+ #include <map>
