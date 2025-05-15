@@ -8,3 +8,8 @@
 [2025-05-08 10:07:14.946] [console] [info] Lidar ip:192.168.1.5 point cloud and IMU data multicast ip:224.1.1.5  [params_check.cpp] [CheckLidarMulticastIp] [133]
 [2025-05-08 10:07:14.946] [console] [info] Data Handler Init Succ.  [data_handler.cpp] [Init] [49]
 [2025-05-08 10:07:15.154] [console] [info] Init livox lidars succ.  [device_manager.cpp] [Init] [178]
+[2025-05-08 17:08:36.656] [console] [info] set master/slave sdk to master sdk by default  [parse_cfg_file.cpp] [Parse] [82]
+[2025-05-08 17:08:36.658] [console] [info] Livox lidar logger disable.  [parse_cfg_file.cpp] [Parse] [126]
+[2025-05-08 17:08:36.658] [console] [info] Lidar ip:192.168.1.50 point cloud and IMU data multicast ip:224.1.1.5  [params_check.cpp] [CheckLidarMulticastIp] [133]
+[2025-05-08 17:08:36.658] [console] [info] Data Handler Init Succ.  [data_handler.cpp] [Init] [49]
+[2025-05-08 17:08:36.864] [console] [info] Init livox lidars succ.  [device_manager.cpp] [Init] [178]
